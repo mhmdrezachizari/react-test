@@ -1,0 +1,25 @@
+.sty {
+  height: 300px;
+  width: 100%;
+}
+.div1 {
+  width: 300px;
+  border: 2px solid transparent;
+  margin-bottom: 70px;
+}
+.title1 {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  word-wrap: break-word;
+  align-items: center;
+}
+.price1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+}
