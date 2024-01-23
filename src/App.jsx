@@ -22,7 +22,7 @@ const App = () => {
     <div>
      {
       users.map(item=>{
-        return <Card data={item} />
+        return <Card data={item}  key={item.id} />
       })
      }
     </div>
